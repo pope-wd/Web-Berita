@@ -18,3 +18,7 @@
   border-radius: 0;
   margin-bottom: 0;
 }
+
+.navbar .navbar-expand-lg {
+  background-image: url("../assets/img/header.png");
+}

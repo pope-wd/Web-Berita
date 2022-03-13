@@ -4,7 +4,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<title>Sports-Pedia | Admin Page</title>
 	<meta content='width=device-width, initial-scale=1.0, shrink-to-fit=no' name='viewport' />
-	<link rel="icon" href="{{ asset('../assets/img/icon.ico') }}" type="image/x-icon"/>
+	<link rel="icon" href="{{ asset('../assets/img/logo web.png') }}" type="image/x-icon"/>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
 	<!-- Fonts and icons -->
@@ -33,7 +33,7 @@
 			<div class="logo-header" data-background-color="blue">
 				
 				<a href="/" class="logo">
-					<img src="{{ asset('../assets/img/logo.svg') }}" alt="navbar brand" class="navbar-brand">
+					<img src="{{ asset('../assets/img/logo web.png') }}" width="60px"alt="navbar brand" class="navbar-brand">
 				</a>
 				<button class="navbar-toggler sidenav-toggler ml-auto" type="button" data-toggle="collapse" data-target="collapse" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon">

@@ -12,7 +12,7 @@
                 <div class="detail-content mt-2 p-4">
                     <div class="detail-badge">
                         <a href="{{ route('cabor.spesific', $artikel->kategori->slug) }}" class="badge badge-warning">{{ $artikel->kategori->nama }}</a>
-                        <a href="{{ route('author.user', $art->users->name) }}" class="badge badge-primary">{{ $artikel->users->name }}</a>
+                        <a href="{{ route('author.user', $artikel->users->name) }}" class="badge badge-primary">{{ $artikel->users->name }}</a>
                     </div>
                     <div class="detail-body">
                         <p>
